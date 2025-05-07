@@ -17,7 +17,7 @@
 - **Tools:** Git, GitHub, Vercel
 
 ## Featured Product
-1. E Commerce Demo : [Live link](https://github.com/yourusername/nextjs-crud)    
+1. E Commerce Demo : [Live link](https://go-shop-zeta.vercel.app/)    
    E Commerce Github : [Github link](https://github.com/vineetkatiyar/go-shop)
 
 2. Job Board Demo : [Live link](https://job-board-next-15.vercel.app)            
